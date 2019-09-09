@@ -1,5 +1,7 @@
 # Vue Skeleton
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zanjs/skeletonVue.svg)](https://greenkeeper.io/)
+
 ### Vue component to easily build or use presets for Facebook-like SVG loading cards.
 
 
